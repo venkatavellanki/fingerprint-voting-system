@@ -56,5 +56,5 @@ This mini project was developed in Semester 5 for the **Biometrics** course at S
 
 The project is intended **strictly for academic and educational purposes only**. It is not optimised for real-world biometric security applications.
 
-© 2023 Venkat Aditya Vellanki. All rights reserved.
+© 2023 **Venkat Aditya Vellanki**. All rights reserved.
 
