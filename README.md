@@ -47,3 +47,14 @@ The **Fingerprint-Based Voting System** aims to:
 **Venkat Aditya Vellanki**  
 B.Tech CSE – SRM Institute of Science and Technology  
 Semester: 5 (2023)
+
+---
+
+## 📄 Disclaimer
+
+This mini project was developed in Semester 5 for the **Biometrics** course at SRM IST. It demonstrates the concept of a fingerprint-based voting management system using C and file handling techniques.
+
+The project is intended **strictly for academic and educational purposes only**. It is not optimised for real-world biometric security applications.
+
+© 2023 Venkat Aditya Vellanki. All rights reserved.
+
