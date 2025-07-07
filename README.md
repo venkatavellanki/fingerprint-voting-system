@@ -18,7 +18,7 @@ The **Fingerprint-Based Voting System** aims to:
 
 | File Name                 | Description                             |
 |--------------------------|-----------------------------------------|
-| `BIOMETRICS REPORT.docx` | Full documentation of the project       |
+| `BIOMETRICS PROJECT REPORT.docx` | Full documentation of the project       |
 | `IEEE(BIO).pdf`          | IEEE-style formatted technical report   |
 
 ---
